@@ -1,0 +1,69 @@
+Character Music - Final_Fantasy_III_U_V1.0_-6.pcm is mgs1.Intruder.1 - Copy (2).pcm
+Character Music - Final_Fantasy_III_U_V1.0_-7.pcm is MGS1..Encounter - Copy.pcm
+Character Music - Final_Fantasy_III_U_V1.0_-8.pcm is MGS1.Escape - Copy.pcm
+Character Music - Final_Fantasy_III_U_V1.0_-9.pcm is MGS1.Duel - Copy (2).pcm
+Character Music - Final_Fantasy_III_U_V1.0_-10.pcm is MGS1..Encounter - Copy - Copy.pcm
+Character Music - Final_Fantasy_III_U_V1.0_-12.pcm is MGS1..Escape._boss_.pcm
+Character Music - Final_Fantasy_III_U_V1.0_-13.pcm is Metal.Gear.Solid.Main.Theme - Copy (2).pcm
+Character Music - Final_Fantasy_III_U_V1.0_-15.pcm is MGS1..Escape._boss_ - Copy (2).pcm
+Character Music - Final_Fantasy_III_U_V1.0_-16.pcm is MGS1.Introduction - Copy (2).pcm
+Character Music - Final_Fantasy_III_U_V1.0_-18.pcm is mgs1.Intruder.1.pcm
+Character Music - Final_Fantasy_III_U_V1.0_-22.pcm is MGS1.Escape - Copy - Copy.pcm
+Character Music - Final_Fantasy_III_U_V1.0_-45.pcm is FF9.The.Sword.of.Doubt.pcm
+Character Music - Final_Fantasy_III_U_V1.0_-48.pcm is MGS1.Introduction.pcm
+Character Music - Final_Fantasy_III_U_V1.0_-49.pcm is MGS1.Escape.pcm
+Battle Music - Final_Fantasy_III_U_V1.0_-36.pcm is MGS1..Escape._boss_ - Copy (2).pcm
+Field Music - Final_Fantasy_III_U_V1.0_-19.pcm is MGS1.Enclosure._town_.-.Copy._2_.pcm
+Field Music - Final_Fantasy_III_U_V1.0_-21.pcm is MGS1.Colosseo._Dungeon_.-.Copy.-.Copy.pcm
+Field Music - Final_Fantasy_III_U_V1.0_-23.pcm is MGS1.REX's.Lair._dungeonORtown_.pcm
+Field Music - Final_Fantasy_III_U_V1.0_-24.pcm is MGS1.Enclosure._town_.pcm
+Field Music - Final_Fantasy_III_U_V1.0_-25.pcm is Chrono.Trigger-.Brink.of.Time.pcm
+Field Music - Final_Fantasy_III_U_V1.0_-29.pcm is MGS1.Mantis'.Hymn._Dungeon_.pcm
+Field Music - Final_Fantasy_III_U_V1.0_-33.pcm is MGS1.REX's.Lair._dungeonORtown_.-.Copy._2_.pcm
+Field Music - Final_Fantasy_III_U_V1.0_-35.pcm is MGS1.Discovery.pcm
+Field Music - Final_Fantasy_III_U_V1.0_-40.pcm is MGS1.Colosseo._Dungeon_.-.Copy._2_.pcm
+Field Music - Final_Fantasy_III_U_V1.0_-41.pcm is MGS1.Cavern.-.Copy._2_.pcm
+Field Music - Final_Fantasy_III_U_V1.0_-42.pcm is MGS1.Hind.D._battledungeonidk_.-.Copy.-.Copy.pcm
+Field Music - Final_Fantasy_III_U_V1.0_-46.pcm is MGS1.Colosseo._Dungeon_.-.Copy.pcm
+Field Music - Final_Fantasy_III_U_V1.0_-52.pcm is MGS1.Cavern.pcm
+Field Music - Final_Fantasy_III_U_V1.0_-53.pcm is MGS1.Discovery.-.Copy._2_.pcm
+Field Music - Final_Fantasy_III_U_V1.0_-55.pcm is MGS1.Hind.D._battledungeonidk_.-.Copy._2_.pcm
+Field Music - Final_Fantasy_III_U_V1.0_-61.pcm is MGS1.Cavern.-.Copy.pcm
+Field Music - Final_Fantasy_III_U_V1.0_-71.pcm is MGS1.Mantis'.Hymn._Dungeon_.-.Copy.-.Copy.pcm
+Field Music - Final_Fantasy_III_U_V1.0_-75.pcm is FF9.The.Sword.of.Doubt - Copy - Copy.pcm
+Field Music - Final_Fantasy_III_U_V1.0_-76.pcm is MGS1.REX's.Lair._dungeonORtown_.-.Copy.pcm
+Field Music - Final_Fantasy_III_U_V1.0_-77.pcm is MGS1.REX's.Lair._dungeonORtown_.-.Copy.-.Copy.pcm
+Field Music - Final_Fantasy_III_U_V1.0_-78.pcm is MGS1.Blast.Furnace._dungeonTownMaybe_.-.Copy.-.Copy.pcm
+Field Music - Final_Fantasy_III_U_V1.0_-79.pcm is MGS1.Discovery.-.Copy.pcm
+Event Music - Final_Fantasy_III_U_V1.0_-1.pcm is Metal.Gear.Solid.Main.Theme - Copy - Copy.pcm
+Event Music - Final_Fantasy_III_U_V1.0_-2.pcm is MGS1..Escape._boss_.pcm
+Event Music - Final_Fantasy_III_U_V1.0_-3.pcm is Metal.Gear.Solid.Main.Theme - Copy (2).pcm
+Event Music - Final_Fantasy_III_U_V1.0_-4.pcm is MGS1.Introduction - Copy.pcm
+Event Music - Final_Fantasy_III_U_V1.0_-5.pcm is Metal.Gear.Solid.Main.Theme - Copy.pcm
+Event Music - Final_Fantasy_III_U_V1.0_-11.pcm is Metal.Gear.Solid.Main.Theme.pcm
+Event Music - Final_Fantasy_III_U_V1.0_-14.pcm is MGS1.Duel - Copy (2).pcm
+Event Music - Final_Fantasy_III_U_V1.0_-17.pcm is mgs1.Intruder.1 - Copy.pcm
+Event Music - Final_Fantasy_III_U_V1.0_-27.pcm is MGS1.Introduction - Copy - Copy.pcm
+Event Music - Final_Fantasy_III_U_V1.0_-28.pcm is mgs1.Intruder.1.pcm
+Event Music - Final_Fantasy_III_U_V1.0_-38.pcm is FF9.The.Sword.of.Doubt - Copy (2).pcm
+Event Music - Final_Fantasy_III_U_V1.0_-39.pcm is FF9.The.Sword.of.Doubt - Copy - Copy.pcm
+Event Music - Final_Fantasy_III_U_V1.0_-47.pcm is MGS1..Escape._boss_ - Copy - Copy.pcm
+Event Music - Final_Fantasy_III_U_V1.0_-65.pcm is MGS1.Escape - Copy.pcm
+Event Music - Final_Fantasy_III_U_V1.0_-66.pcm is MGS1..Encounter.pcm
+Event Music - Final_Fantasy_III_U_V1.0_-67.pcm is MGS1.Escape - Copy - Copy.pcm
+Event Music - Final_Fantasy_III_U_V1.0_-68.pcm is MGS1..Encounter - Copy (2).pcm
+Event Music - Final_Fantasy_III_U_V1.0_-69.pcm is FF9.The.Sword.of.Doubt - Copy.pcm
+Event Music - Final_Fantasy_III_U_V1.0_-70.pcm is MGS1.Escape - Copy (2).pcm
+Event Music - Final_Fantasy_III_U_V1.0_-80.pcm is MGS1.Duel.pcm
+Event Music - Final_Fantasy_III_U_V1.0_-82.pcm is MGS1.Introduction - Copy (2).pcm
+Event Music - Final_Fantasy_III_U_V1.0_-83.pcm is MGS1..Escape._boss_ - Copy.pcm
+Event Music - Final_Fantasy_III_U_V1.0_-101.pcm is MGS1..Encounter - Copy.pcm
+Event Music - Final_Fantasy_III_U_V1.0_-102.pcm is MGS1..Encounter - Copy - Copy.pcm
+Event Music - Final_Fantasy_III_U_V1.0_-103.pcm is MGS1.Duel - Copy.pcm
+Boss Music - Final_Fantasy_III_U_V1.0_-20.pcm is MGS1.Introduction - Copy.pcm
+Boss Music - Final_Fantasy_III_U_V1.0_-26.pcm is MGS1.Duel - Copy (2).pcm
+Boss Music - Final_Fantasy_III_U_V1.0_-31.pcm is FF9.The.Sword.of.Doubt.pcm
+Boss Music - Final_Fantasy_III_U_V1.0_-34.pcm is Metal.Gear.Solid.Main.Theme - Copy - Copy.pcm
+Boss Music - Final_Fantasy_III_U_V1.0_-50.pcm is MGS1.Duel - Copy.pcm
+Boss Music - Final_Fantasy_III_U_V1.0_-51.pcm is FF9.The.Sword.of.Doubt - Copy - Copy.pcm
+Boss Music - Final_Fantasy_III_U_V1.0_-54.pcm is Metal.Gear.Solid.Main.Theme - Copy (2).pcm
